@@ -27,8 +27,8 @@ This project analyzes customer loyalty behavior and flight activity data to unde
 
 ## Dashboard Preview
 
-### Executive Overview
-![Overview](Screenshots/Overview_Page.png)
+### Overview
+![Overview](Screenshots/Overview%20Page.png)
 
 ### Customer Analytics
 ![Executive Overview](Screenshots/Overview%20Page.png)
