@@ -25,6 +25,14 @@ This project analyzes customer loyalty behavior and flight activity data to unde
 * Created KPIs and measures using DAX.
 * Designed an interactive Power BI dashboard.
 
+## Dashboard Preview
+
+### Executive Overview
+![Overview](Screenshots/Overview_Page.png)
+
+### Customer Analytics
+![Executive Overview](Screenshots/Overview%20Page.png)
+
 ## Dashboard Page 1: Executive Overview
 
 This page provides a high-level overview of airline loyalty program performance.
